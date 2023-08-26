@@ -68,15 +68,3 @@ This software uses the following packages:
 - [Dart](https://dart.dev/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
-## Related
-
-[Daruma - Backend](https://github.com/AdrianLopezGue/daruma-backend) - Backend part of Daruma.
-
-## License
-
-[GNU Affero General Public License v3 (AGPL)](https://www.gnu.org/licenses/agpl-3.0.en.html)
-
-## Contact
-
-> GitHub - [@AdrianLopezGue](https://github.com/AdrianLopezGue) 
-> LinkedIn - [Adrián López Guerrero](https://www.linkedin.com/in/adrianlopezgue/)
